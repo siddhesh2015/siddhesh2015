@@ -153,3 +153,33 @@ Data Visualization
 Machine Learning
    ↓
 Artificial Intelligence
+
+---
+
+## 🎯 My Goal
+
+I am building a strong foundation in **Data Analytics, Data Science and Artificial Intelligence** by working on practical projects and continuously improving my skills in Python, SQL, statistics and data visualization.
+
+My goal is to start my career in a data-focused role where I can apply my technical skills to solve real-world problems and continue learning.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/siddhesh-tawade-b8a57b306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:siddheshtawade33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/siddhesh2015">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning • Building • Improving 🚀</i>
+</p>
