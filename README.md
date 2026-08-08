@@ -129,14 +129,7 @@ St. Rock's College, Mumbai University
 - 🏆 **Quantium — Data Analytics Job Simulation**
 
 ---
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhesh2015&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh2015&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
 ## 🔥 GitHub Streak
 
 <p align="center">
