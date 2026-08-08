@@ -153,8 +153,7 @@ Data Visualization
 Machine Learning
    ↓
 Artificial Intelligence
-
----
+```
 
 ## 🎯 My Goal
 
