@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=220&section=header&text=Siddhesh%20Tawade&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
-</p>
 <h1 align="center">Hi 👋, I'm Siddhesh Tawade</h1>
 
 <h3 align="center">Data Science & AI Enthusiast | Python | SQL | Data Analytics</h3>
