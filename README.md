@@ -59,27 +59,55 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Intelligent Responsive Assistant — IRA
+### 🤖 Intelligent Responsive Assistant (IRA)
 
-AI & IoT based smart assistant project featuring:
+**AI + IoT based smart assistant and robotic system**
 
 - 🚗 Manual and automatic robot car control
 - 🎙️ Voice-based interaction
-- 🤖 AI-powered question answering
-- 🏠 Home automation concepts
+- 🤖 AI-assisted question answering
+- 🏠 Smart home automation concepts
 - 🔌 IoT hardware integration
 
-**Technologies:** IoT | Python | Arduino | ESP32
+**Tech:** `Python` `Arduino` `ESP32` `IoT`
 
 ---
 
-### 📊 SQL Data Analysis
+### 📊 SQL Student Data Analysis
 
-A SQL practice and analysis project focused on working with student-related data.
+**SQL-based data analysis project using a student dataset**
 
-**Skills:** SQL | MySQL | Data Filtering | Aggregation | GROUP BY | HAVING | JOINs | Subqueries
+- 🔎 Data filtering and sorting
+- 📊 Aggregate functions
+- 🗂️ GROUP BY & HAVING
+- 🔗 INNER / LEFT / RIGHT JOINs
+- 🧩 Subqueries
+- 📈 Data analysis using SQL
+
+**Tech:** `SQL` `MySQL` `MySQL Workbench`
 
 ---
+
+### 📈 Data Analytics Dashboard
+
+**Data visualization and analysis project focused on extracting useful insights from data.**
+
+- 📊 Data exploration
+- 📈 Visual analysis
+- 🔍 Finding trends and patterns
+- 💡 Converting data into actionable insights
+
+**Tools:** `Python` `Pandas` `Excel` `Data Visualization`
+
+---
+
+### 🔗 Explore My Projects
+
+<p align="center">
+  <a href="https://github.com/siddhesh2015">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 📜 Certifications
 
