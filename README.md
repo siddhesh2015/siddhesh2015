@@ -109,10 +109,24 @@
   </a>
 </p>
 
-## 📜 Certifications
+## 🎓 Education
 
-- 🏆 BCG — Data Science Job Simulation
-- 🏆 Deloitte — Data Analytics Job Simulation
+**B.Sc. in Information Technology**  
+St. Rock's College, Mumbai University
+
+---
+
+## 📜 Certifications & Job Simulations
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BCG-Data%20Science%20Job%20Simulation-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quantium-Data%20Analytics%20Job%20Simulation-6C63FF?style=for-the-badge" />
+</p>
+
+- 🏆 **BCG — Data Science Job Simulation**
+- 🏆 **Deloitte — Data Analytics Job Simulation**
+- 🏆 **Quantium — Data Analytics Job Simulation**
 
 ---
 
