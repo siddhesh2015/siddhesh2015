@@ -22,28 +22,40 @@
 
 ## 🛠️ Tech Stack
 
-### Programming & Data
+### 🐍 Programming & Query Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### Tools & Technologies
+### 📊 Data Science & Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
-### Data & Analytics
+### 💻 Operating System
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Data%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
